@@ -11,7 +11,7 @@
     white-space: pre-line;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 767px) {
     .cover__title {
         margin: 0 0 24px 0;
         font-size: 56px;
@@ -19,7 +19,7 @@
     }
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 600px) {
     .cover__title {
         margin: 0 0 18px 0;
         font-size: 42px;
@@ -27,7 +27,7 @@
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 400px) {
     .cover__title {
         margin: 0 0 16px 0;
         font-size: 32px;

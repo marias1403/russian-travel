@@ -3,10 +3,7 @@
     line-height: 28px;
     font-weight: normal;
     color: white;
-}
-
-.header__lang-link:first-of-type {
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 .header__lang-link:hover {
@@ -14,7 +11,7 @@
     transition: opacity .3s ease-out;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 767px) {
     .header__lang-link {
         font-size: 18px;
         line-height: 20px;

@@ -3,13 +3,13 @@
     padding: 0 48px 24px 48px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1023px) {
     .page__footer {
         padding: 0 24px 24px 24px;
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 767px) {
     .page__footer {
         padding: 0 16px 24px 16px;
     }

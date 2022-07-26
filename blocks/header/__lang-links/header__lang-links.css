@@ -6,7 +6,7 @@
     list-style: none;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 767px) {
     .header__lang-links {
         padding-bottom: 8px;
     }

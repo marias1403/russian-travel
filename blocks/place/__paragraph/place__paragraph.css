@@ -2,20 +2,19 @@
     margin: 0;
     padding: 0;
     text-align: left;
-    max-width: 484px;
     font-size: 18px;
     line-height: 163%;
     font-weight: 400;
     color: white;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1023px) {
     .place__paragraph {
         font-size: 16px;
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 767px) {
     .place__paragraph {
         padding: 0 16px;
     }

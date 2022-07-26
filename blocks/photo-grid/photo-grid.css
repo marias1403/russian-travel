@@ -7,21 +7,21 @@
     justify-items: center;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1279px) {
     .photo-grid {
         grid-template-columns: repeat(3, 1fr);
         grid-gap: 14px;
     }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1023px) {
     .photo-grid {
         grid-template-columns: repeat(2, 1fr);
         grid-gap: 16px;
     }
 }
 
-@media screen and (max-width: 390px) {
+@media screen and (max-width: 767px) {
     .photo-grid {
         grid-template-columns: 1fr;
         grid-gap: 14px;
