@@ -7,7 +7,6 @@
     line-height: 100px;
     font-weight: 900;
     color: white;
-    white-space: pre-line;
 }
 
 @media screen and (max-width: 725px) {
